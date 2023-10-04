@@ -7,7 +7,7 @@ qr = qrcode.QRCode(
     border=5
 )
 
-data = "https://fitgirl-repacks.site/all-my-repacks-a-z/"
+data = "https://priyanshum2003.github.io/Portfolio/"
 
 qr.add_data(data)
 qr.make(fit=True)
